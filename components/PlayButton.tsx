@@ -18,7 +18,7 @@ const PlayButton = () => {
                 hover:scale-110
             "
         >
-            <FaPlay clasName="text-black"/>
+            <FaPlay className="text-black"/>
         </button>
      );
 }
